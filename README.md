@@ -35,3 +35,39 @@ Open terminal in project folder
 Run the command:
 
 python tic_tac_toe.py
+🎯 How to Play
+
+Positions are numbered as:
+
+1 | 2 | 3
+--+---+--
+4 | 5 | 6
+--+---+--
+7 | 8 | 9
+
+
+Player X starts first
+
+Enter position number (1–9)
+
+First to match 3 symbols wins
+
+🧠 Learning Outcomes
+
+Python lists & indexing
+
+Conditional logic
+
+Loops and functions
+
+Basic game development concepts
+
+🔮 Future Enhancements
+
+🤖 Computer vs Player mode
+
+🎨 GUI version using Tkinter
+
+🔊 Sound effects
+
+🏆 Scoreboard
