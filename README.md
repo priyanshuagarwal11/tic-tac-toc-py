@@ -20,3 +20,18 @@ Simple & clean console interface
 Python 3
 
 No external libraries required
+📁 Project Structure
+tic-tac-toe/
+│
+├── tic_tac_toe.py
+└── README.md
+
+▶ How to Run the Game
+
+Make sure Python is installed
+
+Open terminal in project folder
+
+Run the command:
+
+python tic_tac_toe.py
