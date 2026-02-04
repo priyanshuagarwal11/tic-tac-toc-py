@@ -8,7 +8,7 @@ This project is beginner-friendly and focuses on game logic, loops, and conditio
 2 Player mode
 
 Turn-based gameplay
-
+j
 Win detection (row, column, diagonal)
 
 Draw detection
